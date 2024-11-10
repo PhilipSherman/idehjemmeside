@@ -1,0 +1,8 @@
+@font-face {
+    font-family: logofont;
+    src: url('fonts/LEMONMILK-Regular.otf'),
+}
+
+.html {
+    font-family: logofont;
+}
